@@ -1,75 +1,80 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png" alt="MasterHead">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Anand%20Kumar&fontSize=70&animation=fadeIn" alt="Header" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Anand Kumar</h1>
-<h3 align="center">🌟 Full-Stack Developer | Modern Web & Mobile Solutions</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/01anand-kumar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:anandkumar101002@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://leetcode.com/u/01AnandKumar/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
+</p>
 
-<p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=anandkumar62&label=Profile%20views&color=0e75b6&style=flat" alt="anandkumar62" /> 
+<h2 align="center">🌟 Full-Stack Developer | Modern Web & Mobile Solutions</h2>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anandkumar62&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Views" />
 </p>
 
 ---
 
-### About Me
+### 🚀 About Me
 
-I am a passionate **Full-Stack Developer** focused on building clean, scalable, and modern applications. I enjoy working across the entire development spectrum—from powerful backend logic to smooth, responsive user interfaces.
+I am a passionate **Full-Stack Developer** dedicated to building clean, scalable, and high-performance applications. I bridge the gap between powerful backend logic and intuitive, responsive user interfaces.
 
-* 🌱 I’m currently focused on **Laravel** and expanding my knowledge in **modern full-stack architectures**.
-* 💬 Ask me about: **Laravel, Livewire, Angular, React, JavaScript, HTML5, CSS3, Tailwind, Bootstrap.**
-* 📫 How to reach me: **anandkumar101002@gmail.com**
-* ⚡ Fun fact: **- You can also use a semicolon at the beginning of a line**
+- 🌱 **Currently focused on:** Advanced Laravel & Modern Full-Stack Architectures (TALL Stack).
+- 💡 **Philosophy:** Writing "Clean Code" is just as important as writing "Working Code."
+- ⚡ **Fun Fact:** You can use a semicolon at the beginning of a line to prevent JS concatenation errors!
 
 ---
 
-### 🚀 Tech Stack
+### 🛠️ Tech Stack
 
-I work with a diverse set of modern tools to deliver robust digital experiences.
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Front-End & UI</h4>
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <br />
+      <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpine.js&logoColor=black" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>Back-End & Database</h4>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Livewire-4E56A6?style=flat-square&logo=livewire&logoColor=white" />
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend** | Angular, React, Alpine.js, JavaScript, TypeScript |
-| **Styling** | Tailwind CSS, Bootstrap, CSS3, HTML5 |
-| **Backend** | Laravel, Livewire |
-| **Mobile** | Ionic (Cross-platform Hybrid Apps) |
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anandkumar62&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anandkumar62&show_icons=true&theme=radical&layout=compact" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anandkumar62&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🤝 Connect with Me
 
 <p align="left">
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.drupal.org/files/styles/grid-3-2x/public/project-images/screenshot_361.png?itok=w4CzcWyb" alt="Tailwind" width="40" height="40"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a> 
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> </a> 
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="40" height="40"/> </a>
-    <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/> </a> 
-    <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/> </a> 
-    <a href="https://livewire.laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/livewire/livewire-original.svg" alt="Livewire" width="40" height="40"/> </a> 
-    <a href="https://alpinejs.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/alpinejs/alpinejs-original.svg" alt="Alpine.js" width="40" height="40"/> </a>
-    <a href="https://ionicframework.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg" alt="Ionic" width="40" height="40"/> </a>
+  <a href="https://wa.me/918219353946?text=Hi,%20I%20am%20coming%20from%20GitHub!"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://instagram.com/__.anand._______"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://fb.com/anandkumar"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
 
----
-
-### 🌐 Connect with Me
-
-<p align="left">
-    <a href="https://www.linkedin.com/in/01anand-kumar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="01anand-kumar" height="30" width="40" /></a>
-    <a href="https://leetcode.com/u/01AnandKumar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="01AnandKumar" height="30" width="40" /></a>
-    <a href="https://fb.com/anand kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anand kumar" height="30" width="40" /></a>
-    <a href="https://instagram.com/__.anand._______" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__.anand._______" height="30" width="40" /></a>
-    <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/twitterdev?logo=twitter&style=for-the-badge&label=Twitter" alt="Twitter Follow" /></a> 
-</p>
-
----
-
-### GitHub Stats
-
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=anandkumar62&show_icons=true&locale=en" alt="anandkumar62" />
-</p>
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anandkumar62&show_icons=true&locale=en&layout=compact" alt="anandkumar62" />
-</p>
-<p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anandkumar62&" alt="anandkumar62" />
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
 </p>
